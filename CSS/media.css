@@ -1,0 +1,19 @@
+@media only screen and (max-width: 435px){
+    body{
+        background-color: rgb(255, 255, 255);
+    }
+
+    div.container {
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 400px){
+    body {
+        background-color: rgb(255, 255, 255);
+    }
+
+    .container {
+        width: 90%;
+    }
+}
